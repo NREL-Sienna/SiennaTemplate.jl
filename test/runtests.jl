@@ -2,11 +2,11 @@ using Test
 import Logging
 
 import Aqua
-Aqua.test_unbound_args(SIIP - PACKAGE)
-Aqua.test_undefined_exports(SIIP - PACKAGE)
-Aqua.test_ambiguities(SIIP - PACKAGE)
-Aqua.test_stale_deps(SIIP - PACKAGE)
-Aqua.test_deps_compat(SIIP - PACKAGE)
+Aqua.test_unbound_args(SiennaTemplate)
+Aqua.test_undefined_exports(SiennaTemplate)
+Aqua.test_ambiguities(SiennaTemplate)
+Aqua.test_stale_deps(SiennaTemplate)
+Aqua.test_deps_compat(SiennaTemplate)
 
 LOG_FILE = "power-systems.log"
 LOG_LEVELS = Dict(
