@@ -6,7 +6,7 @@ CurrentModule = SiennaTemplate
 
 ## Overview
 
-`PSIIP-PACKAGE .jl` is a [`Julia`](http://www.julialang.org) package that provides blah blah
+`SiennaTemplate.jl` is a [`Julia`](http://www.julialang.org) package that provides blah blah
 
 * * *
 
