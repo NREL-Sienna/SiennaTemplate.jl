@@ -10,6 +10,7 @@ pages = OrderedDict(
     "Reference" => Any[
         "Public API" => "reference/public.md",
         "Internals" => "reference/internal.md",
+        "Stub" => "reference.stud.md"
     ],
 )
 
@@ -25,7 +26,7 @@ makedocs(
 )
 
 deploydocs(
-    repo="github.com/annacasavant/SiennaTempalte.jl",
+    repo="github.com/NREL-Sienna/SiennaTempalte.jl",
     target="build",
     branch="gh-pages",
     devbranch="master",
