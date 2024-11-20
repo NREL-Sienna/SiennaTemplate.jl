@@ -11,7 +11,7 @@ pages = OrderedDict(
         "Developer Guidelines" => "reference/developers/developer_guidelines.md",
         "Public API" => "reference/public.md",
         "Internals" => "reference/developers/internal.md",
-        "Stub" => "reference/stud.md"
+        "Stub" => "reference/stub.md"
     ],
 )
 
