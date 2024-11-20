@@ -8,9 +8,9 @@ pages = OrderedDict(
     "How to..." => Any["stub" => "how_to_guides/stub.md"],
     "Explanation" => Any["stub" => "explanation/stub.md"],
     "Reference" => Any[ 
-        "Developer Guidelines" => "reference/developers/developer_guidelines.md",
+        "Developers" => ["Developer Guidelines" => "reference/developer_guidelines.md",
+        "Internals" => "reference/internal.md"],
         "Public API" => "reference/public.md",
-        "Internals" => "reference/developers/internal.md",
         "Stub" => "reference/stub.md"
     ],
 )
