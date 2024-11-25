@@ -27,7 +27,7 @@ makedocs(
 )
 
 deploydocs(
-    repo="github.com/NREL-Sienna/SiennaTempalte.jl",
+    repo="github.com/NREL-Sienna/SiennaTemplate.jl",
     target="build",
     branch="gh-pages",
     devbranch="master",
