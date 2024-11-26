@@ -30,7 +30,7 @@ deploydocs(
     repo="github.com/NREL-Sienna/SiennaTemplate.jl",
     target="build",
     branch="gh-pages",
-    devbranch="master",
+    devbranch="main",
     devurl="dev",
     push_preview=true,
     versions=["stable" => "v^", "v#.#"],

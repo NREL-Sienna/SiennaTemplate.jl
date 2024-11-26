@@ -1,4 +1,4 @@
-# SIIP-Examples
+# SIENNA-Examples
 
-All the tutorials for the SIIP project are part of a separate repository
-[SIIP-Examples](https://github.com/NREL-SIIP/SIIPExamples.jl).
+All the tutorials for the SIENNA project are part of a separate repository
+[SIENNA-Examples](https://github.com/NREL-SIENNA/SIENNAExamples.jl).

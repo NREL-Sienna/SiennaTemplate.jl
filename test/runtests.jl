@@ -64,7 +64,7 @@ function get_logging_level_from_env(env_name::String, default)
 end
 
 function run_tests()
-    logging_config_filename = get(ENV, "SIIP_LOGGING_CONFIG", nothing)
+    logging_config_filename = get(ENV, "SIENNA_LOGGING_CONFIG", nothing)
     if logging_config_filename !== nothing
         config = IS.LoggingConfiguration(logging_config_filename)
     else
@@ -87,7 +87,7 @@ function run_tests()
         end
 
         # Testing Topological components of the schema
-        @time @testset "Begin SIIP-PACKAGE tests" begin
+        @time @testset "Begin SIENNA-PACKAGE tests" begin
             @includetests ARGS
         end
 
