@@ -1,6 +1,4 @@
-module SIENNA
--PACKAGE
-
+module SiennaTemplate
 using DocStringExtensions
 
 @template (FUNCTIONS, METHODS) = """
