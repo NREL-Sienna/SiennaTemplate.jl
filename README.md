@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/slack-@Sienna/SiennaTemplate-sienna.svg?logo=slack">](https://join.slack.com/t/nlr-sienna/shared_invite/zt-glam9vdu-o8A9TwZTZqqNTKHa7q3BpQ)
 [![SiennaTemplate.jl Downloads](https://shields.io/endpoint?url=https://pkgs.genieframework.com/api/v1/badge/SiennaTemplate)](https://pkgs.genieframework.com?packages=SiennaTemplate)
 
-This repository contains the template files for a dummy package called SiennaTemplate. IT contains the required files for
+This repository contains the template files for a dummy package called SiennaTemplate. It contains the required files for
 
 - Testing
 - Documentation
@@ -15,7 +15,7 @@ This repository contains the template files for a dummy package called SiennaTem
 
 ## Development
 
-Contributions to the development and enahancement of SiennaTemplate is welcome. Please see [CONTRIBUTING.md](https://github.com/NLR-Sienna/SiennaTemplate.jl/blob/main/CONTRIBUTING.md) for code contribution guidelines.
+Contributions to the development and enhancement of SiennaTemplate is welcome. Please see [CONTRIBUTING.md](https://github.com/NLR-Sienna/SiennaTemplate.jl/blob/main/CONTRIBUTING.md) for code contribution guidelines.
 
 ## License
 
