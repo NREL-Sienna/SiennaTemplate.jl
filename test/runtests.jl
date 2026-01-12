@@ -87,7 +87,7 @@ function run_tests()
         end
 
         # Testing Topological components of the schema
-        @time @testset "Begin SIENNA-PACKAGE tests" begin
+        @time @testset "Begin SiennaTemplate tests" begin
             @includetests ARGS
         end
 
